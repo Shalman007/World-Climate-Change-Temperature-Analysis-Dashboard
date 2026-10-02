@@ -6,6 +6,15 @@ The **World Climate Change Temperature Analysis Dashboard** is an interactive da
 
 The project focuses on analyzing historical climate and temperature data to identify trends, patterns, regional variations, and meaningful insights through interactive dashboards.
 
+## 🖼️ Dashboard Preview
+
+### 🌡️ Brazil Climate Dashboard
+
+![Brazil Climate Dashboard](screenshots/world-climate-dashboard-brazil-analysis.png)
+
+### 📈 Detailed Analysis
+
+![Detailed Analysis](screenshots/detailed-analysis.png)
 ---
 
 ## 🎯 Objectives
