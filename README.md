@@ -10,11 +10,11 @@ The project focuses on analyzing historical climate and temperature data to iden
 
 ### 🌡️ Brazil Climate Dashboard
 
-![Brazil Climate Dashboard](screenshots/world-climate-dashboard-brazil-analysis.png)
+![Brazil Climate Dashboard](world-climate-dashboard-brazil-analysis.png)
 
 ### 📈 Detailed Analysis
 
-![Detailed Analysis](screenshots/detailed-analysis.png)
+![Detailed Analysis](detailed-analysis.png)
 ---
 
 ## 🎯 Objectives
